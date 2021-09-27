@@ -1,0 +1,14 @@
+C:\Users\seanv\source\repos\Store\Store\bin\Release\netcoreapp3.1\Store.exe
+C:\Users\seanv\source\repos\Store\Store\bin\Release\netcoreapp3.1\Store.deps.json
+C:\Users\seanv\source\repos\Store\Store\bin\Release\netcoreapp3.1\Store.runtimeconfig.json
+C:\Users\seanv\source\repos\Store\Store\bin\Release\netcoreapp3.1\Store.runtimeconfig.dev.json
+C:\Users\seanv\source\repos\Store\Store\bin\Release\netcoreapp3.1\Store.dll
+C:\Users\seanv\source\repos\Store\Store\bin\Release\netcoreapp3.1\Store.pdb
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.csproj.AssemblyReference.cache
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.AssemblyInfo.cs
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.dll
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.pdb
+C:\Users\seanv\source\repos\Store\Store\obj\Release\netcoreapp3.1\Store.genruntimeconfig.cache
